@@ -35,7 +35,7 @@ class Preview extends StatelessWidget {
                     decoration: const BoxDecoration(
                       image: DecorationImage(
                         image: NetworkImage(
-                          'https://cdn.pixabay.com/photo/2018/04/04/18/45/ball-3290624_1280.jpg',
+                          'https://media.istockphoto.com/id/1181196036/photo/confident-smiling-indian-young-woman-professional-student-customer-saleswoman-looking-at.jpg?s=2048x2048&w=is&k=20&c=XHwTC39MDrTjKINDQ0En1byIMdgrBp6YxUUqHqqj5KU=',
                         ),
                         fit: BoxFit.cover,
                       ),
